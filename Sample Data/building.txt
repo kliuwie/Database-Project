@@ -1,0 +1,5 @@
+Buildingid	name	addstreet	addcity	addstate	addzip
+1	Gryffindor	111 Lion St	Bloomington	IN	47405
+2	Hufflepuff	222 Badger St	Bloomington	IN	47405
+3	Ravenclaw	333 Eagle Ave	Bloomington	IN	47404
+4	Slytherin	444 Serpent Dr	Bloomington	IN	47404

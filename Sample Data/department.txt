@@ -1,0 +1,5 @@
+departmentid	name	school	facultyid
+INFO	Informatics	School of Informatics	1
+BUS	Business	School of Business	3
+SPEA	Environmental	School of Environmental	5
+EDUC	Education	School of Education	15

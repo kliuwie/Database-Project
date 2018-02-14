@@ -1,0 +1,16 @@
+facultyid	rank	hire_date	fname	mname	lname	phone	roomid
+1		2004-07-28	Thatch	PCXX NEUTRAL GEL COOL PEPPERMINT	Duny	(600)779-9805	GRY201
+2		2002-10-19	Glynis	Alprazolam	Gibbons	(653)855-0057	GRY201
+3		1992-02-12	Horatio	BUDEPRION	Ovett	(651)674-0045	GRY201
+4		2011-05-14	Gale	Colocynthis Homaccord	Rowden	(649)666-8617	GRY201
+5		1990-03-08	Randee	Bio-B Kids	Broseke	(855)414-6307	HUF201
+6		2001-11-14	Vinny	Aminophylline	Faier	(274)532-6073	HUF201
+7		1991-06-06	Sherrie	careone nicotine polacrilex	Betho	(145)873-0564	HUF201
+8		2009-04-09	Jens	Carbinoxamine Maleate	Renny	(601)668-7665	HUF201
+9		2004-05-24	Ruth	Premier Value	Shimmans	(399)267-8655	RAV201
+10		1993-02-17	Lorne	"Rugby Nicotine Polacrilex Gum, Mint Flavor"	Hrishchenko	(903)374-3556	RAV201
+11		2009-10-07	Esma	Walgreens	Maris	(319)291-8979	RAV201
+12		2001-05-03	Emera	MULTI VITAMIN INFUSION	Callingham	(720)904-1263	RAV201
+13		2013-10-24	Obed	Natures Antibac Orange Vanilla	Lochead	(782)451-4842	SLY201
+14		2013-09-04	Artemis	Cephalexin	Wigfield	(971)102-8093	SLY201
+15		2013-01-01	Paulo	Cyclophosphamide	Budibent	(904)134-9317	SLY201

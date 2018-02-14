@@ -1,0 +1,6 @@
+advisorid	fname	mname	lname	roomid
+1	Lord	Elfin	Voldemort	HUF202
+2	Albus	Granger	Dumbledore	GRY201
+3	Sirius	Malfoy	Black	GRY202
+4	Dolores	Severus	Umbridge	SLY201
+5	Moaning	Snape	Myrtle	RAV202

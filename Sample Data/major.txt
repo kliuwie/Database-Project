@@ -1,0 +1,5 @@
+majorid	title	credits_req	departmentid
+1	Accounting	15	BUS
+2	Informatics	15	INFO
+3	Public Affairs	15	SPEA
+4	Education	15	EDUC

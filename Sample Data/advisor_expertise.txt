@@ -1,0 +1,11 @@
+advisorid	expertise
+1	witchcraft
+1	mathematics
+2	computer
+2	bid gata
+3	finance
+3	accounting
+4	sport
+4	wood processing
+5	presentation
+5	public affair

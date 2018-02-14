@@ -1,0 +1,64 @@
+/* 2b */
+
+//COMPLETE QUERY
+SELECT r.roomid, r.type, rf.feature
+FROM room as r, room_feature as rf
+WHERE r.roomid = rf.roomid AND
+rf.feature = 'flying monitor' AND r.roomid IN (
+SELECT r.roomid
+FROM room as r, schedule as s, section as st
+WHERE r.roomid = s.roomid AND
+s.sectionid = st.sectionid AND 
+st.start_time <= '11:00:00' AND
+st.end_time >= '11:00:00');
+
+
+/* 3b */
+
+SELECT f.facultyid, CONCAT(f.fname,' ',f.lname) as name
+FROM faculty as f
+WHERE f.facultyid NOT IN (
+SELECT f.facultyid
+FROM faculty as f, schedule as s, section as st, course as c
+WHERE f.facultyid = s.facultyID AND
+s.sectionid = st.sectionid AND
+st.coursenum = c.coursenum AND 
+c.coursenum like 'INFO%')
+; 
+
+/* 4c */
+
+SELECT s.studentid, sc.semestercode, c.coursenum, c.course_subject,gb.grade
+FROM student as s, course as c, section as st, gradebook as gb, course_prereq as cp, semester as sc
+WHERE s.studentid = gb.studentid AND
+gb.sectionid = st.sectionid AND
+st.coursenum = c.coursenum AND
+st.semestercode = sc.semestercode AND
+c.coursenum = cp.coursenum AND
+c.coursenum != cp.prereqnum
+;
+
+/* 6b */
+SELECT DISTINCT CONCAT(s.fname,' ',s.lname) as name
+FROM student as s, schedule as sc, room as r, building as b, section as st,gradebook as gb
+WHERE s.studentid =gb.studentid AND
+gb.sectionid = sc.sectionid AND
+sc.roomid = r.roomid AND
+r.buildingid = b.buildingid AND
+b.name LIKE 'Gry%' AND
+st.start_time <= '9:00:00' AND
+st.end_time >= '9:00:00'
+UNION
+SELECT DISTINCT CONCAT(f.fname,' ',f.lname)
+FROM faculty as f, schedule as sc, room as r, building as b, section as st
+WHERE f.facultyid =sc.facultyid AND
+sc.roomid = r.roomid AND
+r.buildingid = b.buildingid AND
+b.name LIKE 'Gry%' AND
+st.start_time <= '9:00:00' AND
+st.end_time >= '9:00:00';
+
+/* 9a */
+SELECT m.title, d.name, m.credits_req
+FROM major as m, department as d
+WHERE m.departmentid = d.departmentid;

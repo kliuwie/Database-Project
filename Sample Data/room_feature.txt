@@ -1,0 +1,9 @@
+roomid	feature
+GRY002	high tech computer
+HUF002	high tech computer
+RAV002	3D printer
+SLY002	flying monitor
+GRY003	dual projector
+HUF003	wireless projection
+RAV003	dual projector
+SLY003	wireless projection

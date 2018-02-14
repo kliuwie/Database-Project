@@ -1,0 +1,33 @@
+roomid	capacity	type	buildingid
+GRY001	20	Classroom	1
+GRY002	20	Computer Lab	1
+GRY003	40	Lecture Hall	1
+GRY101	20	Classroom	1
+GRY102	20	Classroom	1
+GRY103	20	Classroom	1
+GRY201	5	Office	1
+GRY202	1	Office	1
+HUF001	20	Classroom	2
+HUF002	20	Computer Lab	2
+HUF003	40	Lecture Hall	2
+HUF101	20	Classroom	2
+HUF102	20	Classroom	2
+HUF103	20	Classroom	2
+HUF201	5	Office	2
+HUF202	1	Office	2
+RAV001	20	Classroom	3
+RAV002	20	Science Lab	3
+RAV003	40	Lecture Hall	3
+RAV101	20	Classroom	3
+RAV102	20	Classroom	3
+RAV103	20	Classroom	3
+RAV201	5	Office	3
+RAV202	1	Office	3
+SLY001	20	Classroom	4
+SLY002	20	Science Lab	4
+SLY003	40	Lecture Hall	4
+SLY101	20	Classroom	4
+SLY102	20	Classroom	4
+SLY103	20	Classroom	4
+SLY201	5	Office	4
+SLY202	1	Office	4

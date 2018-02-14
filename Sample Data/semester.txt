@@ -1,0 +1,5 @@
+semestercode	startdate	enddate	title
+SP16	2016-01-05	2016-05-01	Spring 16
+SU16	2016-05-10	2016-06-30	Summer 16
+FA16	2016-08-01	2016-12-06	Fall 16
+SP17	2017-01-05	2017-05-01	Spring 17

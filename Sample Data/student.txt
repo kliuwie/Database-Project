@@ -1,0 +1,21 @@
+studentid	fname	mname	lname	addstreet	addcity	addstate	addzip
+1	Karole	Sher	Biermatowicz	8 Stuart Alley	Bloomington	IN	47403
+2	Danella	Vern	Kerner	943 Crescent Oaks Point	Bloomington	IN	47404
+3	Onfroi	Chane	Ardron	58 Manley Drive	Bloomington	IN	47405
+4	Wandis	Bear	O''Moylan	9738 Brown Terrace	Bloomington	IN	47404
+5	Humbert	Kailey	Silbermann	97248 Del Sol Drive	Bloomington	IN	47405
+6	Annabal	Dusty	Stowgill	6522 Holy Cross Crossing	Bloomington	IN	47404
+7	Ilise	Brita	Lanceter	083 Manitowish Crossing	Bloomington	IN	47403
+8	Stavro	Northrup	Zima	9830 Schlimgen Place	Bloomington	IN	47405
+9	Cooper	Lamont	Regi	5 Granby Park	Bloomington	IN	47404
+10	Jarret	Henri	Rasher	5736 Havey Alley	Bloomington	IN	47405
+11	Wendeline	Cassandre	Goold	67 Mandrake Lane	Bloomington	IN	47403
+12	Lyndy	Madella	Keri	4817 Londonderry Pass	Bloomington	IN	47403
+13	Gale	Wye	Ramme	46 Bowman Parkway	Bloomington	IN	47405
+14	Jacquetta	Gery	Huske	1456 Shasta Drive	Bloomington	IN	47403
+15	Barnie	Skippy	Guyet	53 Atwood Avenue	Bloomington	IN	47404
+16	Gamaliel	Kynthia	Waudby	78405 Sundown Way	Bloomington	IN	47405
+17	Trescha	Claudie	Mardee	7503 Talisman Court	Bloomington	IN	47405
+18	Gerladina	Idell	McCarney	3845 Texas Pass	Bloomington	IN	47404
+19	Munmro	Amandie	Hardware	54033 Pine View Crossing	Bloomington	IN	47403
+20	Nonna	Xenia	Barwis	4163 Carioca Hill	Bloomington	IN	47405

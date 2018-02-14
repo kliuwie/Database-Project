@@ -1,0 +1,31 @@
+coursenum	title	credit_hour	course_subject	departmentid
+EDUC-E 201	Multicultural Education	5	Elementary Education	EDUC
+EDUC-E 210	Learning in Social Context	5	Elementary Education	EDUC
+EDUC-E 300	Elementary Education for a Pluralistic Society	5	Elementary Education	EDUC
+EDUC-E 310	Legal/Ethical Issues	5	Elementary Education	EDUC
+EDUC-E 350	Personal and Professional Growth Groups	5	Elementary Education	EDUC
+EDUC-E 354	Teaching and Learning for All Young Children	5	Elementary Education	EDUC
+EDUC-E 425	Senior Seminar in Teaching and Schooling	5	Elementary Education	EDUC
+BUS-A 201	Introduction to Financial Accounting	5	Business Accounting	BUS
+BUS-A 202	Introduction to Managerial Accounting	5	Business Accounting	BUS
+BUS-A 311	Intermediate Accounting	5	Business Accounting	BUS
+BUS-A 324	Cost Management	5	Business Accounting	BUS
+BUS-A 327	Tax Analysis	5	Business Accounting	BUS
+BUS-A 329	Taxes and Decision Making	5	Business Accounting	BUS
+BUS-A 424	Auditing and Assurance Services	5	Business Accounting	BUS
+BUS-A 440	Applied Professional and Empirical Research in Accounting	5	Business Accounting	BUS
+SPEA-V 220	Law and Public Affairs	5	Public Affairs	SPEA
+SPEA-V 221 	Nonprofit and Voluntary Sector	5	Public Affairs	SPEA
+SPEA-K 300	Statistical Techniques	5	Public Affairs	SPEA
+SPEA-V 340	Urban Government Administration	5	Public Affairs	SPEA
+SPEA-V 348	Management Science	5	Public Affairs	SPEA
+SPEA-V 435	Negotiation and Alternative Dispute Resolution	5	Public Affairs	SPEA
+SPEA-V 437	Public Transportation	5	Public Affairs	SPEA
+INFO-I 210	Information Infrastructure	5	Informatics	INFO
+INFO-I 202	Social Informatics	5	Informatics	INFO
+INFO-I 300	HCI/Interaction Design	5	Informatics	INFO
+INFO-I 308	Information Representation	5	Informatics	INFO
+INFO-I 303	Organizational Informatics	5	Informatics	INFO
+INFO-I 310	Multimedia Arts and Technology	5	Informatics	INFO
+INFO-I 423	Big Data Applications and Analytics	5	Informatics	INFO
+INFO-I 453	Computer and Information Ethics	5	Informatics	INFO
