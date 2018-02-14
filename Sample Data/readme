@@ -1,3 +1,4 @@
 #Here you can find the data we used to populate our database
 #The excel sheets
 #The text files converted from excel sheets
+#python file that converts text csv to sql statement
